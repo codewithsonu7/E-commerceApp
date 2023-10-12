@@ -1,4 +1,4 @@
-# E-commerceApp
+# E-commerceApp - https://codewithsonu7.github.io/E-commerceApp/
 
 landing page
 ![image](https://github.com/codewithsonu7/E-commerceApp/assets/147019061/4118aedf-a3d2-484d-b675-109ad625f7d2)
