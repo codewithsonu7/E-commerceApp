@@ -1,5 +1,6 @@
 # E-commerceApp
-3landing page
+
+landing page
 ![image](https://github.com/codewithsonu7/E-commerceApp/assets/147019061/4118aedf-a3d2-484d-b675-109ad625f7d2)
 
 #Signup
